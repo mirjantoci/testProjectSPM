@@ -105,7 +105,7 @@ public class JWebUnitTest {
 	        assertTitleEquals("Guest User");
 	        assertCheckboxPresent("mine");
 	        assertCheckboxNotSelected("mine");
-	        assertLinkPresent("login");
+	        assertLinkPresent("login1");
 
 
 
