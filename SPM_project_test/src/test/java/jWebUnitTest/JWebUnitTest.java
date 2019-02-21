@@ -143,7 +143,7 @@ public class JWebUnitTest {
 	        assertSubmitButtonPresent("");
 	        assertLinkPresent("passwordRecovery");
 	        assertLinkPresent("signup");
-	        //assertLinkPresent("guestUser");
+	        assertLinkPresent("guestUser1");
 	        
 	    }
 	 
